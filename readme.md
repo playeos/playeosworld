@@ -1,4 +1,4 @@
-# PLAYEOS WORLD
+# EOS World
 
 Own the world on EOS blockchain
 
